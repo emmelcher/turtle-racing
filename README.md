@@ -1,3 +1,3 @@
 # turtle-racing
 
-Races different colored turtles.
+races different colored turtles.
